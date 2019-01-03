@@ -10,6 +10,6 @@ asyncFunction(()=>{
 );
 color='Green';
 
-
+//Hi
 //这里输初的是the color is Green,因为是异步的
 // exports.asyncFunction= callback =>asyncFunction(callback);
